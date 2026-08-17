@@ -151,6 +151,7 @@ Water-Quality-Monitoring-and-Disease-Risk-Prediction-Model/
 │── main.py
 🚀 Installation
 
+
 ### Clone the repository:
 
 git clone https://github.com/yourusername/Water-Quality-Monitoring-and-Disease-Risk-Prediction-Model.git
